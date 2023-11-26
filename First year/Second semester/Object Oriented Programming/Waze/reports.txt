@@ -1,0 +1,9 @@
+accident,Mary,1,3,0
+parked car,Bob,20,21,0
+pot hole,Daniel,7,8,0
+accident,Bob,7,9,0
+police,Daniel,3,8,0
+traffic,Mary,4,5,0
+hazard,Bob,3,9,0
+accident,Mary,17,18,0
+accident,Daniel,13,19,0
