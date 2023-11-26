@@ -1,0 +1,3 @@
+Bob,knight,3,4,12
+Mary,baby,11,18,5
+Daniel,grown-up,12,19,54
