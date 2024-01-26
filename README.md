@@ -17,6 +17,7 @@
   <li>1<sup>st</sup> Semester</li>
   <ul>
     <li><a href="https://github.com/oanapeter/University/tree/main/Second%20year%20/First%20semester/Databases">Databases</a></li>
+    <li><a href="https://github.com/oanapeter/University/tree/main/Second%20year%20/First%20semester/Advanced%20Programming%20Methods">Advanced Programming Methods</a></li>
   </ul>
 </ul>
 
