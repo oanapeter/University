@@ -1,2 +1,0 @@
-1'What is the capital of Romania?;Cluj,Bucharest;Iasi;Bucharest;medium
-2'What is 2+2?;3,4;5;4;easy

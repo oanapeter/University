@@ -1,3 +1,0 @@
-1;Which is the capital of Romania?;Cluj;Iasi;Bucharest;Bucharest;medium
-3;What is a mosquito?;animal;insect;carnivore;insect;medium
-2;What is 2+2?;3;4;2;4;easy
