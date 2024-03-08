@@ -38,6 +38,7 @@ class UI:
 
     def menu(self):
         print("     Quiz Master!")
+        print("Start a quiz by typing 'start quiz1.txt'!")
         file_list = []
         while True:
             user_command = input(">>")
