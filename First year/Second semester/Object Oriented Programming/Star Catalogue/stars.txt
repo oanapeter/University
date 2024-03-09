@@ -1,0 +1,5 @@
+Star1,Milky Way,50,70,20
+Star2,Andromeda,120,100,20
+Star3,Milky Way,50,70,30
+Star4,Andromeda,10,200,30
+s5,Andromeda,8,78,70
