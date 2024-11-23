@@ -26,4 +26,14 @@
   </ul>
 </ul>
 
+### Third Year
+<ul>
+  <li>1<sup>st</sup> Semester</li>
+  <ul>
+    <li><a href="https://github.com/oanapeter/University/tree/main/Third%20year/First%20semester/Mobile%20Applications">Mobile Applications</a></li>
+    <li><a href="https://github.com/oanapeter/University/tree/main/Third%20year/First%20semester/Parallel%20and%20Distributed%20Programming">Parallel and Distributed Programming</a></li>
+    <li><a href="https://github.com/oanapeter/University/tree/main/Third%20year/First%20semester/Public%20Key%20Cryptography">Public Key Cryptography</a></li>
+  </ul>
+</ul>
+
 
