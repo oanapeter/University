@@ -1,7 +1,0 @@
-C:\Users\Oana\Desktop\PDP\PDP-Lab4\bin\Debug\PDP-Lab4.exe.config
-C:\Users\Oana\Desktop\PDP\PDP-Lab4\bin\Debug\PDP-Lab4.exe
-C:\Users\Oana\Desktop\PDP\PDP-Lab4\bin\Debug\PDP-Lab4.pdb
-C:\Users\Oana\Desktop\PDP\PDP-Lab4\obj\Debug\PDP-Lab4.csproj.AssemblyReference.cache
-C:\Users\Oana\Desktop\PDP\PDP-Lab4\obj\Debug\PDP-Lab4.csproj.CoreCompileInputs.cache
-C:\Users\Oana\Desktop\PDP\PDP-Lab4\obj\Debug\PDP-Lab4.exe
-C:\Users\Oana\Desktop\PDP\PDP-Lab4\obj\Debug\PDP-Lab4.pdb
